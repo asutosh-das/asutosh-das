@@ -12,10 +12,5 @@ I am an aspiring Full-Stack Developer with a strong focus on building scalable a
 ![](https://streak-stats.demolab.com/?user=asutosh-das&theme=calm_pink&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=asutosh-das&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=asutosh-das&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=asutosh-das&icon=5&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
